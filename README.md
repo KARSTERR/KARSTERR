@@ -116,3 +116,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <img src="https://komarev.com/ghpvc/?username=karsterr&&style=flat-square" align="center" />
 </div>
 
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="karsterr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/karsterr?trk=profile-badge">Efe Can Kara</a></div>
