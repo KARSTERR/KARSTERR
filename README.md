@@ -1,3 +1,5 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 # <div align="center">Greetings, I'm Efe Can Kara. </div>
 
 <div align="center">
@@ -98,10 +100,8 @@
 <br/>
 
 
-## Recent Blog Posts
+## Recent Blog Posts (Soon)
 
-
-### Recent Blog Posts (soon)
 <!-- BLOG-POST-LIST:START -->
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
 <!-- BLOG-POST-LIST:END -->
@@ -116,11 +116,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <img src="https://komarev.com/ghpvc/?username=karsterr&&style=flat-square" align="center" />
 </div>
 
-
-<br/>
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
