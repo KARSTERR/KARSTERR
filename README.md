@@ -98,7 +98,7 @@
 <br/>
 
 
-Check out my latest blog post: [Understanding Version Control and ](https://efecankara.xyz/blog/understanding-version-control)
+Check out my latest blog post: [Understanding Version Control and Its Advantages](https://efecankara.xyz/blog/understanding-version-control)
 
 <br/>
 
