@@ -4,7 +4,7 @@
     <img src="./gif.gif" alt="gif">
 </div>
 
-<h4>Check out my latest blog post: [Understanding Version Control and Its Advantages](https://efecankara.xyz/blog/understanding-version-control)</h4>
+#### Check out my latest blog post: [Understanding Version Control and Its Advantages](https://efecankara.xyz/blog/understanding-version-control)
 
 - I'm a 21-year-old computer science enthusiast currently in my 3rd year at **Sivas Cumhuriyet University**, studying **Computer Systems and Information Technologies**. My passion for technology drives me to explore cutting-edge innovations, blending software development with hardware systems. With a solid foundation in **Advanced C++**, **Microcontrollers**, and **IoT**, I thrive on building practical solutions for real-world problems and analyzing data to uncover valuable insights.
 
