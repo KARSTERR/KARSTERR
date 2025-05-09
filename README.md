@@ -1,18 +1,18 @@
-# <div align="center">👋 Merhaba, ben Efe Can Kara</div>
+# <div align="center">👋 Hello, I'm Efe Can Kara</div>
 
-## 🚀 GitHub Evrenime Hoş Geldin!
+## 🚀 Welcome to My GitHub Universe!
 
-Ben üçüncü sınıf **Bilgisayar Sistemleri ve Bilişim Teknolojileri** öğrencisiyim (Sivas Cumhuriyet Üniversitesi). **Veri bilimi**, **makine öğrenmesi** ve **yapay zeka** üzerine yoğunlaşıyorum. Ayrıca zaman zaman **mobil uygulama geliştirme** ile ilgileniyorum — özellikle **Flutter** ve **Dart** tarafında üretmeyi seviyorum.
+I'm a 3rd-year **Computer Systems and Information Technologies** student at **Sivas Cumhuriyet University**. I focus on **data science**, **machine learning**, and **artificial intelligence**. I also enjoy working on **mobile app development** in my spare time — especially with **Flutter** and **Dart**.
 
-> _"Geleceği tahmin etmenin en iyi yolu, onu yaratmaktır." – Alan Kay_
+> _"The best way to predict the future is to invent it." – Alan Kay_
 
-Kod yazmadığım zamanlarda genellikle **bas gitar çalıyor**, **yeni teknolojileri deniyor** ve karmaşık problemleri sadeleştirmenin yollarını arıyorum.
+When I'm not coding, you'll probably find me **playing bass guitar**, **exploring new technologies**, or finding ways to **simplify complex problems**.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Technologies I Use
 
-### 🔧 Altyapı & Araçlar
+### 🔧 Infrastructure & Tools
 <div align="center">
     <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
     <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
@@ -22,7 +22,7 @@ Kod yazmadığım zamanlarda genellikle **bas gitar çalıyor**, **yeni teknoloj
     <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 </div>
 
-### 💻 Programlama Dilleri ve Kütüphaneler
+### 💻 Programming Languages & Libraries
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50"/>
@@ -34,32 +34,34 @@ Kod yazmadığım zamanlarda genellikle **bas gitar çalıyor**, **yeni teknoloj
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="50"/>
 </div>
 
-
 ---
 
-## 📬 Benimle İletişime Geç
+## 📬 Get in Touch
 
-Veri bilimi ya da mobil geliştirme projeleri üzerinde iş birliği yapmaya her zaman açığım. 🤝
+Feel free to reach out via the platforms below — whether it's for collaboration, feedback, or just to say hi! 👇
 
 <div align="center">
+    <a href="mailto:kr.efecan@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
     <a href="https://github.com/KARSTERR" target="_blank">
         <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://dev.to/karsterr" target="_blank">
-        <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+    <a href="https://www.hackerrank.com/profile/efecan_kara" target="_blank">
+        <img src="https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
     </a>
-    <a href="https://linkedin.com/in/karsterr" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://leetcode.com/u/KARSTERR/" target="_blank">
+        <img src="https://img.shields.io/badge/leetcode-%2300CCBB.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
-    <a href="https://www.kaggle.com/karsterr" target="_blank">
-        <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <a href="https://www.linkedin.com/in/karsterr/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </div>
 
 ---
 
-### 🔥 Her gün biraz daha iyi olmak için çabalıyorum.
+### 🔥 I strive to improve a little every day.
 
-Vakit ayırıp profilime baktığın için teşekkür ederim! Repoları karıştırmaktan çekinme — belki ortak bir merak alanımız vardır. 😊
+Thanks for stopping by! Feel free to explore my repositories — who knows, maybe we share a passion. 😊
 
 ---
