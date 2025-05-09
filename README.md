@@ -1,19 +1,18 @@
-# <div align="center">Hey there! 👋 I'm Efe Can Kara.</div>
+# <div align="center">👋 Merhaba, ben Efe Can Kara</div>
 
+## 🚀 GitHub Evrenime Hoş Geldin!
 
-### 🚀 Welcome to My GitHub Universe!
+Ben üçüncü sınıf **Bilgisayar Sistemleri ve Bilişim Teknolojileri** öğrencisiyim (Sivas Cumhuriyet Üniversitesi). **Veri bilimi**, **makine öğrenmesi** ve **yapay zeka** üzerine yoğunlaşıyorum. Ayrıca zaman zaman **mobil uygulama geliştirme** ile ilgileniyorum — özellikle **Flutter** ve **Dart** tarafında üretmeyi seviyorum.
 
-I’m a passionate **data scientist** currently in my 3rd year at **Sivas Cumhuriyet University**, studying **Computer Systems and Information Technologies**. I specialize in **data science**, focusing on **machine learning**, **artificial intelligence**, and **data analytics**. I also explore **mobile application development** as a side project, with a particular interest in **Flutter** and **Dart**.
+> _"Geleceği tahmin etmenin en iyi yolu, onu yaratmaktır." – Alan Kay_
 
-> _"The best way to predict the future is to create it." – Alan Kay_
-
-When I'm not coding, you can find me **playing bass guitar**, exploring **new tech stacks**, and constantly looking for innovative ways to **simplify complex problems**.
+Kod yazmadığım zamanlarda genellikle **bas gitar çalıyor**, **yeni teknolojileri deniyor** ve karmaşık problemleri sadeleştirmenin yollarını arıyorum.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Kullandığım Teknolojiler
 
-### 🔧 Technologies I Work With:
+### 🔧 Altyapı & Araçlar
 <div align="center">
     <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
     <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
@@ -23,7 +22,7 @@ When I'm not coding, you can find me **playing bass guitar**, exploring **new te
     <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 </div>
 
-### 💻 Programming Languages:
+### 💻 Programlama Dilleri ve Kütüphaneler
 <div align="center">
     <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
     <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
@@ -37,9 +36,9 @@ When I'm not coding, you can find me **playing bass guitar**, exploring **new te
 
 ---
 
-## 📬 Connect With Me
+## 📬 Benimle İletişime Geç
 
-Let's connect and collaborate on exciting data science and mobile development projects! 🤝
+Veri bilimi ya da mobil geliştirme projeleri üzerinde iş birliği yapmaya her zaman açığım. 🤝
 
 <div align="center">
     <a href="https://github.com/KARSTERR" target="_blank">
@@ -58,8 +57,8 @@ Let's connect and collaborate on exciting data science and mobile development pr
 
 ---
 
-### 🔥 "Keep pushing forward, keep learning, and keep building!"
+### 🔥 Her gün biraz daha iyi olmak için çabalıyorum.
 
-Thanks for stopping by! Feel free to check out my **repositories** and explore my work. 🚀 Happy coding! 😊
+Vakit ayırıp profilime baktığın için teşekkür ederim! Repoları karıştırmaktan çekinme — belki ortak bir merak alanımız vardır. 😊
 
 ---
