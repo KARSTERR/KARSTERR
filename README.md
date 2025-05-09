@@ -23,16 +23,18 @@ Kod yazmadığım zamanlarda genellikle **bas gitar çalıyor**, **yeni teknoloj
 </div>
 
 ### 💻 Programlama Dilleri ve Kütüphaneler
+### 💻 Programlama Dilleri ve Kütüphaneler
 <div align="center">
-    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-original-wordmark.svg" alt="TensorFlow" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/numpy-original-wordmark.svg" alt="NumPy" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/pandas-original-wordmark.svg" alt="Pandas" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/matplotlib-original-wordmark.svg" alt="Matplotlib" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="50"/>
 </div>
+
 
 ---
 
