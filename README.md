@@ -1,7 +1,7 @@
 # <div align="center">Hey there! 👋 I'm Efe Can Kara.</div>
 
 
-### 🚀 Welcome to My GitLab Universe!
+### 🚀 Welcome to My GitHub Universe!
 
 I’m a passionate **data scientist** currently in my 3rd year at **Sivas Cumhuriyet University**, studying **Computer Systems and Information Technologies**. I specialize in **data science**, focusing on **machine learning**, **artificial intelligence**, and **data analytics**. I also explore **mobile application development** as a side project, with a particular interest in **Flutter** and **Dart**.
 
