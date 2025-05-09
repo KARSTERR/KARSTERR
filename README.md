@@ -23,7 +23,6 @@ Kod yazmadığım zamanlarda genellikle **bas gitar çalıyor**, **yeni teknoloj
 </div>
 
 ### 💻 Programlama Dilleri ve Kütüphaneler
-### 💻 Programlama Dilleri ve Kütüphaneler
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50"/>
